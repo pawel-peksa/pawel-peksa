@@ -13,6 +13,6 @@ https://pawel-peksa.github.io/lite-funds/
 
 ![image](https://user-images.githubusercontent.com/25892133/148834626-6c579c0c-811e-4448-8bea-6c859cac0758.png)
 
-⚡ Fun fact about me: during my engineering studies I work as a Fashion Model which allowed me to live for couple months in Tokio, NYC, Seoul, Paris and Milan. Didn't enjoy photoshooting that much though...
+⚡ Fun fact about me: during my engineering studies I worked as a Fashion Model which allowed me to live for couple months in Tokio, NYC, Seoul, Paris and Milan. Didn't enjoy photoshooting that much though...
 
 📫 You can reach me via email pawel.peksa@gmail.com
