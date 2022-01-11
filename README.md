@@ -2,7 +2,7 @@
 
 I'm **Paweł**, aviation fan - currently working in Cold Flow Laboratory Polonia Aero (part of GE Aviation) where we design and test low pressure turbines for jest engines.
 
-After work hours I like to code. 
+After work hours I like to code and learn new technologies. 
 Currently studying **JavaScript** / **React** / TypeScript / Node.js in CodersLab.
 
 Except for engineering and cooding I like to read about economics and investments (that's why Lite Funds)
